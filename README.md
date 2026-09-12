@@ -2,8 +2,8 @@ ALIEN COMPLAINT PORTAL 👽🎯
 Basic Details
 Team Name: Hackstreet
 Team Members
-Team Lead: Adithya S. - [BMCE]
-Member 2: Mahis - [BMCE]
+Team Lead: Adithya S. - [College Name]
+Member 2: Mahis - [College Name]
 Project Description
 
 ALIEN COMPLAINT PORTAL is a futuristic government-style grievance portal designed for extraterrestrials living on Earth.
